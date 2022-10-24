@@ -1,4 +1,4 @@
-## Practicas parcial 1  
+## Practicas ciclicas parcial 1  
 Esta son las primeras practicas del primer parcial.  
 Tipos de ciclos usados (en cada una):  
 1. Ciclo for
